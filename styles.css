@@ -1,0 +1,201 @@
+
+.body {
+    background-color: rgb(40, 41, 40);
+    padding: 4px
+}
+
+.body {
+    background-image: url('https://rare-gallery.com/mocahbig/425388-landscape-digital-art-Forange-forest-artwork-World-of-Warcraft.jpg');
+    background-position: center top 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-clip: padding-box;
+    margin-top: 0px;
+    color: #fff;
+}
+
+.FooterText {
+    padding-top: 1px;
+    padding-left: 30px;
+    margin-top: 1px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 4.0rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #e4a45b;
+    text-shadow: -1px 2px 3px #D5931B;
+}
+
+.Header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    padding: 0px 15px;
+    height: 40px;
+    gap: 35px;
+}
+
+
+.BlizzardLogo {
+    display: flex;
+    height: 120px;
+    padding-left: 0px;
+}
+
+.wowlogo {
+    display: flex;
+    justify-content: center;
+    height: 270px;
+    padding-top: 0px;
+    margin-bottom: 1px;
+}
+
+.NavOptions {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+    gap: 35px;
+
+    color: rgb(190, 190, 190);
+    text-align: justify;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+.description {
+    display: flex;
+    justify-content: flex-start;
+}
+
+th {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 30px;
+    gap: 20px;
+    font-size: 17px;
+    letter-spacing: 1.4px;
+    word-spacing: -1.2px;
+    color: #ffffff;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: none;
+}
+
+.topicimages {
+    display: flex;
+    justify-content: space-around;
+}
+
+#img1 {
+    height: 250px;
+    border: 10px outset #e4a45b;
+    -webkit-box-shadow: 1px 5px 15px 1px #000000; 
+    box-shadow: 1px 5px 15px 1px #000000;
+}
+
+#img2 {
+    height: 250px;
+    border: 10px outset #e4a45b;
+    -webkit-box-shadow: 1px 5px 15px 1px #000000; 
+    box-shadow: 1px 5px 15px 1px #000000;
+}
+
+#img3 {
+    height: 250px;
+    border: 10px outset #e4a45b;
+    -webkit-box-shadow: 1px 5px 15px 1px #000000; 
+    box-shadow: 1px 5px 15px 1px #000000;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 30px;
+    gap: 20px;
+    font-size: 17px;
+    letter-spacing: 1.4px;
+    word-spacing: -1.2px;
+    color: #ffffff;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: none;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#skillsdescrip {
+    display: flex;
+    justify-content: center;
+}
+
+u {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 24px;
+    gap: 20px;
+    font-size: 17px;
+    letter-spacing: 1.4px;
+    word-spacing: -1.2px;
+    color: #ffffff;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: none;
+}
+
+.contactus {
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 830px;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    font-size: 17px;
+    letter-spacing: 1.4px;
+    word-spacing: -1.2px;
+    color: #ffffff;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: none;
+}
+
+.input {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 250px;
+}
+
+#contactheader {
+    padding-left: 45px;
+}
